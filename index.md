@@ -1,9 +1,9 @@
 ---
 layout: default
-title: OpenFab
+title: OpenFab, more than a FabLab
 ---
 
-# Openfab
+# OpenFab
 
 Hello, welcome on Board! We are glad to see you there :)
 
