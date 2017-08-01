@@ -2,9 +2,8 @@
 layout: default
 title: Hank Quinlan, Horrible Cop
 ---
-<div class="blurb">
-	<h1> Github Openfab
-	<p>
+
+# Github Openfab
 
 Hello, welcome on Board! We are glad to see you there :)
 
@@ -42,5 +41,3 @@ _Empowerment.
 
 
 # to be continued - à être continué 
-</p>
-</div><!-- /.blurb -->
