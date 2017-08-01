@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Hank Quinlan, Horrible Cop
+title: OpenFab
 ---
 
-# Github Openfab
+# Openfab
 
 Hello, welcome on Board! We are glad to see you there :)
 
