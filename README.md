@@ -46,31 +46,33 @@ If you want more elements, you can read this [document](https://github.com/openf
 
 ## Contributing
 
-You want to contribute to our project? Read this document to know how to do so: [Contributing](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md)
-
+If you want to contribute to our project and make it better, your help is very welcome. Contributing is also a great way to learn more, to get involve in an ambitious project.  
+Read this document to know how to do so: [Contributing](https://github.com/openfab-lab/openfab/blob/master/CONTRIBUTING.md).
 
 ## Current projects
 
-Here are the projects we are working on, click on the one that interested you to go on their
+Here are the projects we are working on, click on the one that interested you to go directly on their repository to get more information. If you want to contribute on one of them, check their own "README", "Contributing" file or ask directly through issues.
 
 FabLab + community management
-- [Gamification](https://github.com/openfab-lab/gamification-fablab)
-- [Maker passport](https://github.com/openfab-lab/passeportMaker)
-- [OpenBages](https://github.com/openfab-lab/pack-openbadge-fablab)
+- [Gamification](https://github.com/openfab-lab/gamification-fablab): The process of adding games or gamelike elements to something. We want members to evolve in OpenFab as if they were in a game, they can do quests, learn skills, ...
+- [Maker passport](https://github.com/openfab-lab/passeportMaker): Strongly linked to Gamification + OpenBadges. A helpful tool to ID makers in their community, to collect skills badges and token, to help the process of documentation.
+- [OpenBages](https://github.com/openfab-lab/pack-openbadge-fablab): Strongly linked to Gamification + Maker Passport. 1 badge = 1 skill. We want to create an alternative to CV, something more pratical. Learning by doing.
 
 Maker
-- [MakerLib](https://github.com/openfab-lab/openfab/projects/8)
-- [Jacqueline](https://github.com/openfab-lab/openfab/projects/10)
-- [Aquaponics](https://github.com/openfab-lab/openfab/projects/5) (Soon)
+- [MakerLib](https://github.com/openfab-lab/openfab/projects/8): Based on the [Maker Library Network](http://design.britishcouncil.org/projects/makerlibraries/)
+- [Jacqueline](https://github.com/openfab-lab/openfab/projects/10): Project launched by members of the community. The goal is to create a mobile sound system.
+- [Aquaponics](https://github.com/openfab-lab/openfab/projects/5): More information soon. Project starting in septembrer 2017.
 
 Call for projects
-- [Chic 2.0](https://github.com/openfab-lab/chic2.0)
+- [Chic 2.0](https://github.com/openfab-lab/chic2.0): European project. CHIC has the desire to create bridges between the fields of design, applied arts, digital, popular education and social and solidarity economy.
+
+
 
 > __"One adventure with many heroes."__  
 >_ Neil deGrasse Tyson
 
 
-- to be continued - à être continué -
+
 
 À ajouter pour plus tard :
 - Pioneer
